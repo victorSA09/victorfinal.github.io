@@ -1,0 +1,83 @@
+ header a{
+     float:left;
+ }
+ 
+ nav { 
+    text-align: right;
+    color: rgb(148, 146, 144);
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+}
+
+div header nav ul li a{
+    color: rgb(116, 116, 116);
+
+}
+
+.banner {
+    background-image:url(../img/banner.jpg) ;
+}
+
+.caixa{
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px 20px;
+    position: absolute;
+    text-align: left;
+    top: 180px;
+    width: 400px;
+    line-height: 20px;
+    height: 200px;
+    
+}
+
+.caixa h1{
+    font-size:40px;
+    font-family: 'Red Hat Mono', monospace;
+    color: white;
+    position: ;
+}
+
+.caixa p{
+    font-family: 'Red Hat Mono', monospace;
+    color: white;
+}
+
+.caixa a{
+    font-family: 'Red Hat Mono', monospace;
+}
+section{
+    text-align: center;
+}
+
+article {
+    display:inline-block;
+    color: black;
+    width: 300px;
+    line-height: 30px;
+    height: 100%;
+    padding: 15px;
+    text-align: justify;
+}
+
+section img{
+
+    width: 300px;
+}
+
+article h2{
+    text-align:left;
+    width: 200px;
+}
+
+article p{
+    width:300px;
+}
+
+footer{
+    font-size: medium;
+    color: rgb(122, 120, 117);
+    padding: 20px;
+}
